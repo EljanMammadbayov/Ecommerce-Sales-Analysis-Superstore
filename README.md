@@ -44,4 +44,4 @@ This repository uses the public Sample Superstore dataset for educational purpos
 
 ---
 
-If you’d like, view the LinkedIn post & project presentation here: [LinkedIn post link]
+If you’d like, view the LinkedIn post & project presentation [here](https://www.linkedin.com/posts/eljan-mammadbayov-538348231_powerbi-excel-sql-activity-7386112820150546432-Luoa?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnksPwB3U-SnU3RkcBBbgEtuwMWsjeYvMQ).
